@@ -1,1 +1,3 @@
-# CollegePredictor
+In this project you ask to predict college admission for engineering or college students using machine learning algorithms and you ask us to implement following modules
+1)	Admin Module: admin can login to system using username and password as ‘admin’ and ‘admin’ and then load dataset and then train dataset with various machine learning algorithms called Random Forest, SVM and Decision Tree. There are 100’s of colleges and it’s not possible for admin to add all those colleges so we are using dataset which contains more  than 50000 colleges details.
+2)	User module: user can signup with the application and then login and then can predict college by entering their academic profiles as input. Input values are Eamcet Rank, Gender, Caste, University and branch (engineering, pharmacy etc.)
